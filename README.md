@@ -1,1 +1,1 @@
- Python question slips.
+ Python questions slips.
